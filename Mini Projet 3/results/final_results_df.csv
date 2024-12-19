@@ -1,0 +1,6 @@
+Dataset,Ensemble AUC,Best Model AUC,Best Model Name
+engine_wiring,0.6411631846414455,0.6868783390522522,ColorizationModel
+mvtec_ad_bottle,0.828125,0.925,MaskedAutoencoderModel
+mvtec_ad_capsule,0.6898148148148149,0.6774691358024691,UNetInpaintingModel
+mvtec_ad_hazelnut,0.9178571428571428,0.9871428571428572,AttentionColorizationModel
+mvtec_ad_toothbrush,0.8,0.9222222222222224,UNetColorizationModel
