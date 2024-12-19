@@ -4,8 +4,8 @@ INSA Toulouse
 # Authors
 * BUI Minh Thi
 * NGUYEN Thanh Chung
-* Vilde OPDAL
-* Laura Karina VAZQUEZ ARELLANO
+* OPDAL Vilde 
+* VAZQUEZ ARELLANO Laura Karina 
 
 ## Description
 
@@ -38,7 +38,6 @@ Define and train a Conditional Variational Autoencoder (CVAE) on the Fashion-MNI
 * Generate five new samples for each class in Fashion-MNIST.
 
 ## Mini-projet n°3: SSL for Anomaly Detection
-3: SSL for Anomaly Detection
 
 ### Objective
 
